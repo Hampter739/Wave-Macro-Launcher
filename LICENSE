@@ -1,21 +1,102 @@
-MIT License
+WAVE SOFTWARE LICENSE AGREEMENT
+Version 1.0 (11 October 2026)
 
-Copyright (c) 2026 Goated Hampter
+This agreement covers Wave Launcher and every other macro, tool, update, and service
+published through Wave (together, the "Software"), and the source code, builds, assets, data, and documentation that come
+with it. "Wave" means Goated Hampter (plaxyz), who publishes the Software. "You" means the person using it.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. ACCEPTANCE
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+By downloading, installing, copying, or using the Software, you agree to this agreement. If you do not agree, do not
+download, install, or use it, and delete every copy you have. Wave Launcher also asks you to accept these terms before it
+downloads or runs any macro.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You confirm that you are old enough to enter this agreement where you live, or that a parent or guardian has agreed to it
+for you.
+
+2. THE LICENSE
+
+The Software is licensed, not sold. Wave gives you a limited, personal, non-exclusive, non-transferable, non-sublicensable,
+revocable license to install the Software on your own computer and use it for your own personal, non-commercial purposes,
+for as long as this agreement allows. Access depends on a verified Wave account that belongs to you. Wave keeps all rights
+not expressly granted here.
+
+3. WHAT YOU MAY NOT DO
+
+You may not, and may not let or help anyone else:
+
+a. Crack, patch, hook, emulate, or otherwise defeat or bypass sign-in, authentication, sessions, account verification,
+   access checks, licensing, update checks, signatures, integrity checks, install receipts, or any anti-tamper or
+   protection measure, or run the Software without the checks it is meant to make.
+b. Modify, adapt, translate, repackage, or create derivative works of the Software, or run a modified copy of it.
+c. Reverse engineer, decompile, disassemble, deobfuscate, or otherwise try to obtain the source code, algorithms, tuning
+   values, data formats, or network protocols of the Software, or inspect it to build something else.
+d. Copy, share, upload, leak, publish, sell, rent, lend, sublicense, host, or distribute the Software, any part of it, its
+   source code, or its builds, in any way and on any platform, including Discord, forums, file-hosting sites, code hosts,
+   and torrents.
+e. Extract or reuse the Software's code, assets, interface, data, or settings in another product.
+f. Use or share another person's account or session, or let anyone use yours, or forge, replay, or alter requests to the
+   Wave service, or use the service other than through the official Software.
+g. Overload, scrape, probe, or interfere with the Wave service, or try to get around its rate limits or blocks.
+h. Remove or change any copyright, license, or ownership notice.
+i. Use the Software, or what you learn from it, to build or help build a competing product.
+j. Publish or share tools, instructions, keys, or accounts that let others do any of the above.
+
+Where the law of your country gives you a right that this section tries to take away (for example certain limited rights
+to study software for interoperability), this section applies only as far as the law allows.
+
+4. OWNERSHIP
+
+Wave and its licensors own the Software and all intellectual property in it. Nothing here transfers any ownership to you.
+If you send Wave feedback or ideas, Wave may use them freely without paying you.
+
+5. THIRD-PARTY GAMES AND PLATFORMS
+
+Wave is not affiliated with, endorsed by, or sponsored by Roblox or any game or platform the Software works with.
+Automation can carry account risk and may break those platforms' rules. You alone decide whether to use it and you accept
+that risk. Wave is not responsible for any ban, penalty, or loss on a third-party account.
+
+6. YOUR DATA
+
+Wave records the information needed to run the service and protect it from abuse, as described in the terms and screens
+inside the Software. This includes your Discord account ID and display name, your membership tier, a one-way hash of this
+PC's hardware ID, the Roblox account last seen in Roblox's logs on this PC, and request logs. A macro may also send play
+summaries to Wave if you agree to that in the macro. The Software never needs your passwords.
+
+7. UPDATES AND CHANGES
+
+The Software may update itself. Wave may change, suspend, or stop any part of the Software or service at any time. Wave may
+update this agreement; you will be asked to accept a material change, and continuing to use the Software after that means
+you accept it.
+
+8. ENDING THIS AGREEMENT
+
+This agreement ends automatically if you breach it. Wave may also suspend or end your access, including by blocking your
+account or PC, at any time and for any reason, with or without notice. When it ends you must stop using the Software and
+delete every copy. Sections 3, 4, 5, 9, 10, and 11 survive.
+
+9. ENFORCEMENT
+
+Breaching section 3 harms Wave in ways money alone may not repair. To the extent the law allows, Wave may ask a court for
+an injunction without proving actual loss, may recover its losses caused by your breach, and may report leaked or copied
+copies to the sites hosting them and to the authorities.
+
+10. NO WARRANTY AND LIMIT OF LIABILITY
+
+The Software is provided "as is" and "as available", with no warranty of any kind, including fitness for a purpose,
+accuracy, or uninterrupted use. To the fullest extent the law allows, Wave is not liable for indirect, incidental, special,
+or consequential losses, or for lost accounts, items, or data, and Wave's total liability for anything relating to the
+Software is limited to the amount you paid for it. Nothing in this agreement excludes liability that cannot be excluded by
+law.
+
+11. GENERAL
+
+This is the whole agreement about the Software and replaces any earlier one. If part of it is found unenforceable, the rest
+stays in force. Wave not enforcing a term at once does not give it up. Wave may transfer this agreement to a successor; you
+may not. This agreement is governed by the laws of the Netherlands, and its courts have exclusive jurisdiction over
+disputes, except where the law of your country says otherwise. You agree to this agreement electronically, and that has the
+same effect as signing it.
+
+Contact:
+Discord: plaxyz (Goated Hampter)
+Email: goatedhammy@gmail.com
